@@ -4,12 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `hazimete`,
-    siteUrl: `https://www.yourdomain.tld`,
-    social: {
-      twitter: `your_twitter_handle`,
-      github: `your_github_username`,
-      atcoder: `your_atcoder_username`,
-    },
+    siteUrl: `https://konezunko.github.io/gatsby/`,
+    
   },
   plugins: [
     'gatsby-plugin-sass',
