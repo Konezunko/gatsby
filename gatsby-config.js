@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: `hazimete`,
     siteUrl: `https://www.yourdomain.tld`,
-    social: {  // social フィールドを追加
+    social: {
       twitter: `your_twitter_handle`,
       github: `your_github_username`,
       atcoder: `your_atcoder_username`,
@@ -23,10 +23,11 @@ module.exports = {
         path: `${__dirname}/src/images/`,
       },
     },
+
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        // プラグインのオプションをここに追加できます
+        // Add plugin options here
       },
     },
     {
@@ -71,6 +72,5 @@ module.exports = {
         ],
       },
     },
-    // `gatsby-plugin-react-helmet` は Gatsby のネイティブサポートに置き換え可能です
   ],
 };
