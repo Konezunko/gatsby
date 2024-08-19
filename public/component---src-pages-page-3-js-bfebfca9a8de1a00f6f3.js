@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhazimete=self.webpackChunkhazimete||[]).push([[912],{4495:function(e,t,a){a.r(t);var l=a(7294),n=a(4160),c=a(2899),r=a(5739);t.default=()=>l.createElement(c.Z,null,l.createElement(r.Z,{title:"Page three"}),l.createElement("h1",null,"Hi from the second page"),l.createElement("p",null,"Welcome to page 3"),l.createElement(n.rU,{to:"/"},"Go back to the homepage"))}}]);
+//# sourceMappingURL=component---src-pages-page-3-js-bfebfca9a8de1a00f6f3.js.map
